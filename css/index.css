@@ -35,7 +35,7 @@ h1 {
 }
 
 #meio {
-    height: 25vh;
+    height: 35vh;
     width: 100%;
     float: left;
     align-items: center;
@@ -45,23 +45,19 @@ h2 {
     float: left;
     font-size: 2rem;
     text-transform: uppercase;
-}
-
-#mapa-png {
-    height: 25vh;
-    width: 100%;
-    float: left;
+    text-align: center;
 }
 
 #shows {
-    height: 17vh;
+    height: 30vh;
     width: 100%;
     background: grey;
     float: left;
+    margin-top: 15vh;
 }
 
 footer {
-    height: 5vh;
+    height: 10vh;
     width: 100%;
     background: black;
     float: left;
